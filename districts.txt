@@ -1,0 +1,4 @@
+AlQuds:Hezma:5000:550:yes 
+Nablus:Asira:8000:350:yes 
+AlQuds:Qatanna:3000:300:No 
+Jenin:Yabad:12000:200:yes
